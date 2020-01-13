@@ -1,0 +1,67 @@
+{
+    "dataCarousel" : [
+        {
+            "title" : "NODE JS",
+            "img" : "http://pluspng.com/img-png/nodejs-png-node-js-on-light-background-1843.png",
+            "link" : "https://nodejs.org"
+        },{
+            "title" : "React JS",
+            "img" : "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+            "link" : "https://reactjs.org"
+        },{
+            "title" : "Adonis Js",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQry4PfNH2I1pb7f-zGrP2nAxyyO7mq2a1uocOYir0z7BmFqGgL",
+            "link" : "https://adonisjs.com"
+        },{
+            "title" : "React Native",
+            "img" : "https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png",
+            "link" : "https://facebook.github.io/react-native/"
+        },{
+            "title" : "express js",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+            "link" : "https://expressjs.cpm"
+        },
+        {
+            "title" : "PHP",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png",
+            "link" : "https://php.net"
+        },{
+            "title" : "Laravel",
+            "img" : "https://pngimage.net/wp-content/uploads/2018/06/laravel-logo-png-2.png",
+            "link" : "https://laravel.com"
+        },{
+            "title" : "Mysql",
+            "img" : "https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png",
+            "link" : "https://mysql.com"
+        },{
+            "title" : "Mongo DB",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/d/d2/MongoDB-Logo-5c3a7405a85675366beb3a5ec4c032348c390b3f142f5e6dddf1d78e2df5cb5c.png",
+            "link" : "https://mongodb.com"
+        },{
+            "title" : "Figma",
+            "img" : "https://2.bp.blogspot.com/-KVFNcyNJpmc/XIe-Sqa674I/AAAAAAAAIuk/VRK5WWydfD4yjMq_AkU6B2h3WAROEvOMgCK4BGAYYCw/s1600/logo%2Bfigma%2Bicon.png",
+            "link" : "https://figma.com"
+        }
+    ],
+    "dataPortofolio" : [
+        {
+            "name" : "SMRS",
+            "link" : "https://s.id/c1Iih",
+            "desc" : "Application for user get information healtcare like hospital, doctors, medicine or rooms hospitals",
+            "img" : "https://i.ibb.co/XXNZbQS/smrs.jpg",
+            "tags" : "personal"
+        },{
+            "name" : "OTO Point",
+            "link" : "",
+            "desc" : "Application for gemification user otomotif like toyota",
+            "img" : "https://i.ibb.co/VDht1bV/oto1.jpg",
+            "tags" : "personal"
+        },{
+            "name" : "Snackers",
+            "link" : "",
+            "desc" : "Application for redeem vouchers snacks or foods",
+            "img" : "https://i.ibb.co/TYPrJWn/snackers.jpg",
+            "tags" : "personal"
+        }
+    ]
+}
