@@ -49,19 +49,64 @@
             "link" : "https://s.id/c1Iih",
             "desc" : "Application for user get information healtcare like hospital, doctors, medicine or rooms hospitals",
             "img" : "https://i.ibb.co/XXNZbQS/smrs.jpg",
-            "tags" : "personal"
+            "tags" : "personal",
+            "col" : "col-lg-3 col-md-6"
         },{
             "name" : "OTO Point",
             "link" : "",
             "desc" : "Application for gemification user otomotif like toyota",
             "img" : "https://i.ibb.co/VDht1bV/oto1.jpg",
-            "tags" : "personal"
+            "tags" : "personal",
+            "col" : "col-lg-3 col-md-6"
         },{
             "name" : "Snackers",
             "link" : "",
             "desc" : "Application for redeem vouchers snacks or foods",
             "img" : "https://i.ibb.co/TYPrJWn/snackers.jpg",
-            "tags" : "personal"
+            "tags" : "personal",
+            "col" : "col-lg-3 col-md-6"
+        },{
+            "name" : "Movie",
+            "link" : "http://pondoksoftware.com:3000",
+            "desc" : "Application show themovidedb.org build with NextJs",
+            "img" : "https://i.ibb.co/nzZFdss/Screen-Shot-2020-01-16-at-16-11-43.png",
+            "tags" : "personal",
+            "col" : "col-lg-6 col-md-6"
+        },{
+            "name" : "Backend Inpoin Poin Exchange",
+            "link" : "#",
+            "desc" : "Application for exchange poin loyalti for any poin acquirer to any poin issuer like Indihome Poin to Saldo bonus LinkAja",
+            "img" : "https://i.ibb.co/KK6vC5c/Screen-Shot-2020-01-16-at-16-22-33.png",
+            "tags" : "telkom",
+            "col" : "col-lg-6 col-md-6"
+        },{
+            "name" : "Dashboard Inpoin Poin Exchange v1",
+            "link" : "#",
+            "desc" : "Application for exchange poin loyalti for any poin acquirer to any poin issuer like Indihome Poin to Saldo bonus LinkAja",
+            "img" : "https://i.ibb.co/84msRvz/Overview.jpg",
+            "tags" : "telkom",
+            "col" : "col-lg-6 col-md-6"
+        },{
+            "name" : "Dashboard Apps Dana Indo PT Cuan",
+            "link" : "#",
+            "desc" : "Management Content Apps Dana Indo Pt Cipta usaha anugrah cibubur",
+            "img" : "https://i.ibb.co/WzttG1g/Screen-Shot-2020-01-16-at-16-35-56.png",
+            "tags" : "freelance",
+            "col" : "col-lg-6 col-md-6"
+        },{
+            "name" : "Dashboard Management member Ninja express cabang cibubu",
+            "link" : "#",
+            "desc" : "Application for managemen member ninja, poin sistem, and other",
+            "img" : "https://i.ibb.co/8DxHGG1/Screen-Shot-2020-01-16-at-16-33-25.png",
+            "tags" : "freelance",
+            "col" : "col-lg-6 col-md-6"
+        },{
+            "name" : "Jahit Indonesia",
+            "link" : "#",
+            "desc" : "E Comerce jahit online and product convection",
+            "img" : "https://i.ibb.co/zFnKXvM/Screen-Shot-2020-01-16-at-17-22-18.png",
+            "tags" : "personal",
+            "col" : "col-lg-6 col-md-6"
         }
     ]
 }

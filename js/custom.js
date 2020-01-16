@@ -46,12 +46,12 @@ $(document).ready(function(){
         var {dataPortofolio} = data
         for(var n =0; n<dataPortofolio.length; n++){
             var link = dataPortofolio[n].link || `#`
-            var text = '<div class="col-lg-3 col-md-6 all '+dataPortofolio[n].tags+'">'
+            var text = '<div class="'+dataPortofolio[n].col+' all '+dataPortofolio[n].tags+'">'
             text += '<div class="single_portfolio">'
             text += '<img class="img-fluid w-100" src="'+dataPortofolio[n].img+'" alt="">'
             text += '<div class="overlay"></div>'
             text += '<div class="short_info">'
-            text += '<h4><a href="'+link+'">'+dataPortofolio[n].name+'</a></h4>'
+            text += '<h4><a href="'+link+'" target="_blank">'+dataPortofolio[n].name+'</a></h4>'
             text += '<p>'+dataPortofolio[n].desc+'</p>'
             text += '</div></div></div>'
 
